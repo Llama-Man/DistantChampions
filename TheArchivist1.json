@@ -1,0 +1,14 @@
+﻿{
+  "id": "TheArchivist1",
+  "name": "Distant Champions",
+  "author": "9 mice",
+  "description": "Adds new playable characters to Slay the Spire 2 - The Assyrian (a two-discipline duellist) and The Talwu (a co-op ritualist support).",
+  "version": "v0.0.0",
+  "min_game_version": "0.107.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    {"id": "BaseLib", "min_version": "3.4.7"}
+  ],
+  "affects_gameplay": true
+}
