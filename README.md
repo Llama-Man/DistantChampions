@@ -1,1 +1,1 @@
-"# DistantChampions" 
+A content mod for Slay the Spire 2 including the Assyrian, an expert in two disciplines, and the Talwu, the reader of the Hexagrams
